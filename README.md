@@ -18,7 +18,7 @@ Tech Stack:
 
 Project Structure:
 src/
-├── components/
+├── components/<br>
 │   └── Stopwatch.jsx
 ├── App.jsx
 ├── main.jsx
