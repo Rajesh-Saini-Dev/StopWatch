@@ -20,8 +20,8 @@ Project Structure:
 src/<br>
 ├── components/
 │   └── Stopwatch.jsx<br>
-├── App.jsx
-├── main.jsx
+├── App.jsx<br>
+├── main.jsx<br>
 └── index.css
 
 
