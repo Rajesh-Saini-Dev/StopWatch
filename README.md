@@ -17,11 +17,11 @@ Tech Stack:
     Vite
 
 Project Structure:
-src/
-├── components/
-│   └── Stopwatch.jsx
-├── App.jsx
-├── main.jsx
+src/<br>
+├── components/<br>
+│   └── Stopwatch.jsx<br>
+├── App.jsx<br>
+├── main.jsx<br>
 └── index.css
 
 
