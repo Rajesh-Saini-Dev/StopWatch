@@ -44,7 +44,7 @@ function Stopwatch() {
           onClick={() => setRunning(true)}
           className="py-1 px-4 md:py-2 md:px-8 rounded-full bg-white text-black font-bold text-xl focus:bg-blue-400"
         >
-          Start
+          {time > 0 && !running ? "Resume" : "Start"}
         </button>
         <button
           onClick={() => setRunning(false)}
